@@ -18,10 +18,14 @@ Build and evaluate multiple ML models
 Provide actionable insights for business decisions
 
 📂 Project Structure
+
 ├── Churn Analysis - EDA.ipynb
+
 ├── Churn Analysis - Model Building.ipynb
+
 ├── templates/
 │   └── home.html
+
 ├── README.md
 
 📊 Dataset Information
@@ -62,11 +66,13 @@ F1 Score
 ROC-AUC
 
 📈 Key Insights
+
 Customers with month-to-month contracts are more likely to churn
 High monthly charges increase churn probability
 Lack of additional services (tech support, security) increases churn
 
 💡 Business Impact
+
 Helps telecom companies identify high-risk customers
 Enables targeted marketing campaigns
 Reduces customer acquisition cost
